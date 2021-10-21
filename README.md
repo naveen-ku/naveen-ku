@@ -49,8 +49,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveen-ku&show_icons=true&theme=dracula"  height="180px"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen-ku&theme=dracula&layout=compact"  height="180px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveen-ku&show_icons=true&theme=dracula"  height="180px" width="300px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen-ku&theme=dracula&layout=compact"  height="180px" width="300px"/>
 </p>
 
 <p align="center">

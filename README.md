@@ -3,9 +3,9 @@
 ## ✨&nbsp; I am Naveen Kumar
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Engineering at the ZHCET, AMU.\
-🌱 &nbsp;I'm on track for learning more about Software Development, ML and, Systems Design.\
-✍️ &nbsp;In my free time, I read webnovels, manga or watch anime.\
+🎓 &nbsp;Currently studying Computer Engineering at the ZHCET, AMU.\
+🌱 &nbsp;On track for learning more about Software Development, ML and, Systems Design.\
+✍️ &nbsp;In free time, I read webnovels, manga or watch anime.\
 💬 &nbsp;Feel free to reach out to me to ask for my experiences, freelancing hurdles, my development journey or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at naveen2951996@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1Sr3M4vz9d4-ElsyTUgYX_s1J1fQw7Apc/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
